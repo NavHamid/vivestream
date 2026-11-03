@@ -186,9 +186,9 @@ API requests to `/api/*` are automatically proxied to the backend during develop
 * Admin dashboard
 * Audio waveform visualization
 * Dark and Light themes
+* Forgot password and account recovery
 
 ---
-
 
 
 
